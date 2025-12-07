@@ -1,0 +1,25 @@
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- Virtual Env ----
+.venv/
+venv/
+
+# ---- OS / IDE ----
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+
+# ---- Data / Local files ----
+*.xlsx
+*.ipynb
+Predicted_*.csv
+
+# ---- Allow model artifacts (IMPORTANT) ----
+!btc_webapp/model/*.h5
+!btc_webapp/model/*.pkl
+!btc_webapp/model/*.npy
+!btc_webapp/model/*.csv
+
