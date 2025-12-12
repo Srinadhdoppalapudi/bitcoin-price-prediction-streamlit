@@ -75,8 +75,7 @@ if page == "Instructions":
 
 This project implements an end-to-end system for predicting future **Bitcoin closing prices**
 using a **Long Short-Term Memory (LSTM)** neural network.  
-It was developed as part of **CSCI 6444 – Introduction to Big Data and Analytics** and
-demonstrates the full data science lifecycle including:
+It was developed as part of a data analytics project and demonstrates the full data science lifecycle, including:
 
 - Data collection  
 - Preprocessing  
